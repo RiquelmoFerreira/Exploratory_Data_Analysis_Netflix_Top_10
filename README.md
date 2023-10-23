@@ -32,6 +32,7 @@ During the analysis we can see that the vast majority of titles present in the D
 - Pandas
 - Matplotlib
 - Seaborn
+- Power Point
 
 # Author
 ## Riquelmo Afonso Avelar Ferreira
@@ -71,6 +72,7 @@ Durante a análise podemos perceber que a grande maioria dos títulos presentes 
 - Pandas
 - Matplotlib
 - Seaborn
+- Power Point
 
 # Autor
 ## Riquelmo Afonso Avelar Ferreira
